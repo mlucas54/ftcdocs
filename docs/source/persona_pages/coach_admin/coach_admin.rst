@@ -107,12 +107,6 @@ team while promoting *FIRST*'s ethos. Just click on the button for the resource 
 
          .. div:: col-sm pl-1 pr-1
 
-            .. button-link:: https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/sample-budget.xlsx
-               :color: black
-               :outline:
-               :expand:
-
-               Sample Budget (External Excel Spreadsheet)
 
    .. grid-item-card::
       :class-header: sd-bg-secondary font-weight-bold sd-text-black
